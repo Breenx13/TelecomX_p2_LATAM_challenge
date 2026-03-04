@@ -4,7 +4,7 @@
 <h2> Modelado Predictivo de Deserción de Clientes (Churn) </h2>
 </div>
 
-![Badge en Desarrollo](https://img.shields.io/badge/ENTREGA-%2018/02/2026-pink)
+![Badge en Desarrollo](https://img.shields.io/badge/ENTREGA-%2004/03/2026-pink)
 
 <h3> 📌 Introducción </h3>
 
